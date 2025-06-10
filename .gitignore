@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-cache/
+package-lock.json
+pnpm-lock.yaml
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Build artifacts
+dist/
+build/
+target/
+out/
+*.log
+*.tmp
+
+# IDE files
+.idea/
+.vscode/
+
+# Database files
+*.db
+*.sqlite
+
+# Other common ignored files
+.env
+.DS_Store
+Thumbs.db
