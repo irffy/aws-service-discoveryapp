@@ -26,12 +26,7 @@ aws-service-discovery-frontend/        # Frontend React application
 ├── package.json                      # Node.js dependencies
 └── index.html                        # HTML entry point
 
-Documentation Files:
-├── README.md                         # Comprehensive setup guide
-├── architecture.md                   # Technical architecture details
-├── testing-results.md                # Testing documentation
-├── setup.sh                         # Quick setup script
-└── todo.md                          # Project progress tracking
+
 ```
 
 ## ✨ Key Features Implemented
